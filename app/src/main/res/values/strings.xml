@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EZ Flash Cards</string>
+    <string name="question">Question</string>
+    <string name="select_topic">Select Topic</string>
+    <string name="answer">Answer</string>
+    <string name="no_question_error">No questions in file!</string>
+    <string name="menu_string">Menu</string>
+    <string name="invalid_file_error">Invalid file. Only supports .csv, .xls, and .xlsx formats.</string>
+    <string name="no_file_error">File does not exist!</string>
+    <string name="corrupt_file_error">File appears to be corrupt or unreadable.</string>
+    <string name="no_topic_error">No valid topics in file.</string>
+    <string name="template_saved">A template file has been saved to your default download directory.</string>
+    <string name="title_activity_ezmain">EZMain</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
